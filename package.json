@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "svelte": "^3.16.7",
+    "svelte": "^3.49.0",
     "svelte-loader": "^2.13.6",
     "webpack": "^4.41.4",
     "webpack-cli": "^3.3.10"
